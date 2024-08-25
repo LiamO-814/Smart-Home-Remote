@@ -8,5 +8,5 @@ This project has taken multiple iterations including a a full "back-to-the-drawi
 
 The general outline of this project can be summarized in the following circuit
 
-![alt text](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png)
+![alt text](./References/GeneralCircuit.png)
 
