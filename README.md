@@ -6,7 +6,13 @@ This project has taken multiple iterations including a a full "back-to-the-drawi
 
 ## Outline
 
-The general outline of this project can be summarized in the following circuit
+The general outline of this project can be summarized in the following circuit:
 
 ![General Circuit](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png)
+
+Fritzing is a bit limited in terms of parts, so I had to use some substitutes. 
+
+I am using a [USB Charge Controller with a TP4056 Charge Controller](https://www.aliexpress.us/item/3256804241424963.html?spm=a2g0o.order_list.order_list_main.17.59e274ddH2cvsc&gatewayAdapt=glo2usa):
+
+
 
