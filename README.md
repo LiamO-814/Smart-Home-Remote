@@ -8,9 +8,10 @@ This project has taken multiple iterations including a a full "back-to-the-drawi
 
 The general outline of this project can be summarized in the following circuit:
 
-![General Circuit](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png)
+[comment]: #![General Circuit](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png)
 
-<img src="[https://your-image-url.type](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png)" width="30%" height="30%">
+
+<img src="https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png" width="30%" height="30%">
 
 Fritzing is a bit limited in terms of parts, so I had to use some substitutes. 
 
