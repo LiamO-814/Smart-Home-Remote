@@ -9,11 +9,11 @@ This project has taken multiple iterations including a a full "back-to-the-drawi
 ## Outline
 
 The general outline of this project can be summarized in the following circuit:
-
 <!--- ![General Circuit](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png) -->
 
-
 <img alt="General Circuit" src="https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png" width="40%" height="40%">
+
+It is as simple as 9 GPIO Pins ties to 9 Push Button Switches, a battery and charge controller, and a Wi-Fi enabled microcontroller to run the show. No rocket science needed or involved here. 
 
 Fritzing is a bit limited in terms of parts, so I had to use some substitutes. 
 
