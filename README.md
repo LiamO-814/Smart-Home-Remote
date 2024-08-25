@@ -1,8 +1,9 @@
-# Smart-Home-Remote
+# DIY Smart Home Remote
 This project includes printable files for a wireless IOT remote with 9 programmable buttons, wiring diagrams, and software scripts that can be integrated with ESPHome for HomeAssistant. 
 
 This repo also includes the full build log of all of my tribulations in designing and bringing the project to life. 
 
+The inception of this project came from outfitting my apartment with as much smart tech and home automation hardware as I possessed, and then coming to the realization that we could no longer use the Light Switches and my phone become the central controller for the entire space. I realized quickly that I was in need of a hardware solution to make the home more controllable. I wanted to make a wall-mounted switch that could also be removed and used as a wireless remote. The wall mount would double as a charging dock of sorts. This remains the ultimate goal of the project. 
 
 This project has taken multiple iterations including a a full "back-to-the-drawing-board" moment, that, so far, seems to have been for the best. Much of this project was also developing my 3D Design and CAD skills, so I think my comfort and skill level shows throughout iterations of the project.
 
