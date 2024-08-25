@@ -26,4 +26,5 @@ The microcontroller is a [ESP32-C3 Zero Development Board from Waveshare](https:
 
 Any 3.7v LiPo Battery (with a charge voltage of 4.2V) should fit the bill. I am using [LP402535 from EEMB](https://a.co/d/e7UViq0) which have a capacity of 320mAh. Note the dimensions of the remote are very much based around this specific model's dimensions, so if you wish to you use other models, the enclosure dimensions will have to change. 
 
+Please See the Design Log Files for more project details
 
