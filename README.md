@@ -1,5 +1,5 @@
 # DIY Smart Home Remote
-This project includes printable files for a wireless IOT remote with 9 programmable buttons, wiring diagrams, and software scripts that can be integrated with ESPHome for HomeAssistant. 
+This project includes printable files for a wireless IOT remote with 9 programmable buttons, wiring diagrams, and software scripts that can be integrated with ESPHome for HomeAssistant. If you aren't familiar with the ESPHome Project, please [check out their documentation](https://esphome.io/) to get setup.
 
 This repo also includes the full build log of all of my tribulations in designing and bringing the project to life. 
 
