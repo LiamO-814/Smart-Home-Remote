@@ -1,5 +1,7 @@
 # Smart-Home-Remote
-Log and File for 3D Printed Remote enclosure
+This project includes printable files for a wireless IOT remote with 9 programmable buttons, wiring diagrams, and software scripts that can be integrated with ESPHome for HomeAssistant. 
+
+This repo also includes the full build log of all of my tribulations in designing and bringing the project to life. 
 
 
 This project has taken multiple iterations including a a full "back-to-the-drawing-board" moment, that, so far, seems to have been for the best. Much of this project was also developing my 3D Design and CAD skills, so I think my comfort and skill level shows throughout iterations of the project.
