@@ -11,7 +11,7 @@ The general outline of this project can be summarized in the following circuit:
 [comment]: <!--- ![General Circuit](https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png) -->
 
 
-<GeneralCircuit src="https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png" width="40%" height="40%">
+<img src="https://github.com/LiamO-814/Smart-Home-Remote/blob/main/References/GeneralCircuit.png" width="40%" height="40%">
 
 Fritzing is a bit limited in terms of parts, so I had to use some substitutes. 
 
