@@ -31,7 +31,7 @@ Any 3.7v LiPo Battery (with a charge voltage of 4.2V) should fit the bill. I am 
 
 Please See the Design Log Files for more project details
 
-## Assembling and Installation
+## Assembly and Installation
 
 **This section will be completed as the project is finalized. Thank you for your patience.**
 
