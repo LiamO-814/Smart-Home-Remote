@@ -1,0 +1,117 @@
+esphome:
+  name: diy-smart-home-remote
+  friendly_name: DIY Smart Home Remote
+
+esp32:
+  board: esp32-c3-devkitm-1
+  framework:
+    type: arduino
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+  encryption:
+    key: "YpAX0loMi+CZe4Uzk+eAcMpfgerySmThLTIKfCmz3wk="
+
+ota:
+  - platform: esphome
+    password: "67db9c7ca50f1ffa02ecad9f13bc4a96"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Diy-Smart-Home-Remote"
+    password: "x7bnQUDvjYIP"
+
+captive_portal:
+
+web_server:
+
+binary_sensor:
+  - platform: gpio
+    pin: 
+      number: GPIO5
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button A1"
+  - platform: gpio
+    pin: 
+      number: GPIO6
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button B1"
+  - platform: gpio
+    pin: 
+      number: GPIO7
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button C1"
+  - platform: gpio
+    pin: 
+      number: GPIO9
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button A2"
+  - platform: gpio
+    pin: 
+      number: GPIO10
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button B2"
+  - platform: gpio
+    pin: 
+      number: GPIO20
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button C2"
+  - platform: gpio
+    pin: 
+      number: GPIO3
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button A3"
+  - platform: gpio
+    pin: 
+      number: GPIO2
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button B3"
+  - platform: gpio
+    pin: 
+      number: GPIO1
+      inverted: True
+      mode:
+        input: True
+        pullup: True
+    name:
+      "Remote Button C3"
+    
