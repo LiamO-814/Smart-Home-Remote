@@ -6,5 +6,7 @@ This project has taken multiple iterations including a a full "back-to-the-drawi
 
 ## Outline
 
-The general 
+The general outline of this project can be summarized in the following circuit
+
+![alt text](http://ithub.com/LiamO-814/Smart-Home-Remote/References/GeneralCircuilt.png)
 
